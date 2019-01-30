@@ -13,6 +13,7 @@ public class LogOutTest {
         WebElement inputEmail = driver.findElement(By.id("session_email"));
         inputEmail.sendKeys(new CharSequence[]{"kexesobepu@zsero.com"});
 
+        //edit from github
     }
 
 }
